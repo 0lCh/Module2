@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string name="play">Запустить</string>
+    <string name="bk">Фон</string>
+    <string name="u1">Скорость +</string>
+    <string name="u2">Скорость -</string>
+</resources>
